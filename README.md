@@ -1,4 +1,4 @@
-# bspatch
+# bspatch \n
 增量更新
 
 使用要求
